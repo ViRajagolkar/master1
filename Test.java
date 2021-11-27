@@ -5,6 +5,5 @@ public class Test{
     int a= 100;
     System.out.println("Test Class a value is : "+ a);
     System.out.println("test class End");
-    System.out.println("Already test class End only print");
   }
 }
